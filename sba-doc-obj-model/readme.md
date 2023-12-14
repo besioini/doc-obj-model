@@ -1,4 +1,4 @@
-# Shopping List
+# Task List
 
 Vanilla JavaScript task list app for SBA Doc Obj Model assignment
 
