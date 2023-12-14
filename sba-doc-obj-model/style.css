@@ -1,0 +1,24 @@
+
+#container {
+    border: 0.1px;
+    background-color: aliceblue;
+    margin: 50px;
+    padding: 25px;
+    width: auto;
+    text-align: center;
+}
+
+#collection li {
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.delete-icon {
+    cursor: pointer;
+}
